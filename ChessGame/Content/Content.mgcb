@@ -25,3 +25,195 @@
 /processorParam:TextureFormat=Color
 /build:Textures/ball.png
 
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_bishop_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_bishop_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_king_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_king_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_knight_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_knight_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_pawn_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_pawn_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_queen_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_queen_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_rook_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_rook_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square brown dark_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square brown dark_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square brown light_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square brown light_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square gray dark _png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square gray dark _png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square gray light _png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square gray light _png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_bishop_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_bishop_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_king_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_king_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_knight_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_knight_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_pawn_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_pawn_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_queen_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_queen_png_shadow_128px.png
+
+#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_rook_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_rook_png_shadow_128px.png
+
