@@ -13,7 +13,7 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin Textures/ball.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/b_bishop_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -23,9 +23,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/ball.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/b_bishop_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_bishop_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/b_king_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -35,9 +35,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_bishop_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/b_king_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_king_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/b_knight_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -47,9 +47,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_king_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/b_knight_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_knight_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/b_pawn_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -59,9 +59,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_knight_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/b_pawn_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_pawn_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/b_queen_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -71,9 +71,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_pawn_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/b_queen_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_queen_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/b_rook_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -83,9 +83,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_queen_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/b_rook_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_rook_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/square brown dark_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -95,9 +95,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/b_rook_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/square brown dark_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square brown dark_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/square brown light_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -107,9 +107,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square brown dark_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/square brown light_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square brown light_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/square gray dark _png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -119,9 +119,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square brown light_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/square gray dark _png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square gray dark _png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/square gray light _png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -131,9 +131,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square gray dark _png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/square gray light _png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square gray light _png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/w_bishop_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -143,9 +143,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/square gray light _png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/w_bishop_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_bishop_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/w_king_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -155,9 +155,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_bishop_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/w_king_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_king_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/w_knight_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -167,9 +167,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_king_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/w_knight_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_knight_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/w_pawn_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -179,9 +179,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_knight_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/w_pawn_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_pawn_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/1024h/w_rook_png_1024px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -191,9 +191,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_pawn_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/1024h/w_rook_png_1024px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_queen_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/128h/b_bishop_png_128px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -203,9 +203,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_queen_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/128h/b_bishop_png_128px.png
 
-#begin Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_rook_png_shadow_128px.png
+#begin Textures/Chess/PNGs/No_Shadow/128h/b_king_png_128px.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -215,5 +215,2057 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Textures/JohnPablok Cburnett Chess set/PNGs/With Shadow/128px/w_rook_png_shadow_128px.png
+/build:Textures/Chess/PNGs/No_Shadow/128h/b_king_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/b_knight_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/b_knight_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/b_pawn_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/b_pawn_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/b_queen_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/b_queen_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/b_rook_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/b_rook_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/square brown dark_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/square brown dark_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/square brown light_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/square brown light_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/square gray dark _png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/square gray dark _png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/square gray light _png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/square gray light _png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/w_bishop_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/w_bishop_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/w_king_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/w_king_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/w_knight_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/w_knight_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/w_pawn_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/w_pawn_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/w_queen_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/w_queen_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/128h/w_rook_png_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/128h/w_rook_png_128px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/b_bishop_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/b_bishop_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/b_knight_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/b_knight_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/b_pawn_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/b_pawn_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/b_queen_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/b_queen_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/b_rook_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/b_rook_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/square brown dark_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/square brown dark_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/square brown light_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/square brown light_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/square gray dark _1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/square gray dark _1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/square gray light _1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/square gray light _1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/w_bishop_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/w_bishop_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/w_king_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/w_king_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/w_knight_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/w_knight_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/w_pawn_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/w_pawn_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/w_queen_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/w_queen_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/1x/w_rook_1x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/1x/w_rook_1x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/b_bishop_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/b_bishop_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/b_king_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/b_king_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/b_knight_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/b_knight_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/b_pawn_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/b_pawn_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/b_queen_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/b_queen_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/b_rook_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/b_rook_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/square brown dark_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/square brown dark_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/square brown light_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/square brown light_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/square gray dark _png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/square gray dark _png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/square gray light _png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/square gray light _png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/w_bishop_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/w_bishop_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/w_king_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/w_king_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/w_knight_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/w_knight_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/w_pawn_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/w_pawn_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/w_queen_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/w_queen_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/256h/w_rook_png_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/256h/w_rook_png_256px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/b_bishop_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/b_bishop_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/b_king_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/b_king_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/b_knight_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/b_knight_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/b_pawn_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/b_pawn_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/b_queen_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/b_queen_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/b_rook_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/b_rook_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/square brown dark_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/square brown dark_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/square brown light_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/square brown light_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/square gray dark _2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/square gray dark _2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/square gray light _2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/square gray light _2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/w_bishop_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/w_bishop_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/w_king_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/w_king_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/w_knight_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/w_knight_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/w_pawn_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/w_pawn_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/w_queen_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/w_queen_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/2x/w_rook_2x_ns.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/2x/w_rook_2x_ns.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/b_bishop_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/b_bishop_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/b_king_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/b_king_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/b_knight_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/b_knight_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/b_pawn_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/b_pawn_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/b_queen_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/b_queen_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/b_rook_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/b_rook_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/square brown dark_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/square brown dark_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/square brown light_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/square brown light_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/square gray dark _png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/square gray dark _png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/square gray light _png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/square gray light _png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/w_bishop_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/w_bishop_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/w_king_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/w_king_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/w_knight_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/w_knight_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/w_pawn_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/w_pawn_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/w_queen_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/w_queen_png_512px.png
+
+#begin Textures/Chess/PNGs/No_Shadow/512h/w_rook_png_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/No_Shadow/512h/w_rook_png_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/b_king_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/b_king_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/b_knight_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/b_knight_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/b_pawn_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/b_pawn_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/b_queen_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/b_queen_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/b_rook_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/b_rook_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/square brown dark_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/square brown dark_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/square brown light_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/square brown light_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/square gray dark _png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/square gray dark _png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/square gray light _png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/square gray light _png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/w_bishop_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/w_bishop_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/w_king_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/w_king_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/w_knight_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/w_knight_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/w_pawn_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/w_pawn_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/w_queen_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/w_queen_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1024px/w_rook_png_shadow_1024px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1024px/w_rook_png_shadow_1024px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/b_bishop_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/b_bishop_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/b_king_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/b_king_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/b_knight_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/b_knight_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/b_pawn_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/b_pawn_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/b_queen_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/b_queen_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/b_rook_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/b_rook_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/square brown dark_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/square brown dark_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/square brown light_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/square brown light_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/square gray dark _png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/square gray dark _png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/square gray light _png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/square gray light _png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/w_bishop_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/w_bishop_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/w_king_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/w_king_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/w_knight_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/w_knight_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/w_pawn_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/w_pawn_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/w_queen_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/w_queen_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/128px/w_rook_png_shadow_128px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/128px/w_rook_png_shadow_128px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/b_bishop_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/b_bishop_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/b_king_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/b_king_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/b_knight_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/b_knight_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/b_pawn_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/b_pawn_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/b_queen_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/b_queen_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/b_rook_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/b_rook_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/square brown dark_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/square brown dark_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/square brown light_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/square brown light_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/square gray dark _1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/square gray dark _1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/square gray light _1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/square gray light _1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/w_bishop_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/w_bishop_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/w_king_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/w_king_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/w_knight_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/w_knight_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/w_pawn_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/w_pawn_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/w_queen_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/w_queen_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/1x/w_rook_1x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/1x/w_rook_1x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/b_bishop_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/b_bishop_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/b_king_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/b_king_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/b_knight_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/b_knight_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/b_pawn_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/b_pawn_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/b_queen_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/b_queen_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/b_rook_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/b_rook_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/square brown dark_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/square brown dark_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/square brown light_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/square brown light_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/square gray dark _png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/square gray dark _png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/square gray light _png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/square gray light _png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/w_bishop_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/w_bishop_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/w_king_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/w_king_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/w_knight_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/w_knight_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/w_pawn_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/w_pawn_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/w_queen_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/w_queen_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/256px/w_rook_png_shadow_256px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/256px/w_rook_png_shadow_256px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/b_bishop_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/b_bishop_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/b_king_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/b_king_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/b_knight_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/b_knight_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/b_pawn_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/b_pawn_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/b_queen_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/b_queen_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/b_rook_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/b_rook_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/square brown dark_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/square brown dark_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/square brown light_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/square brown light_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/square gray dark _2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/square gray dark _2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/square gray light _2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/square gray light _2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/w_bishop_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/w_bishop_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/w_king_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/w_king_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/w_knight_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/w_knight_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/w_pawn_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/w_pawn_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/w_queen_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/w_queen_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/2x/w_rook_2x.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/2x/w_rook_2x.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/b_bishop_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/b_bishop_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/b_king_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/b_king_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/b_pawn_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/b_pawn_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/b_queen_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/b_queen_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/b_rook_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/b_rook_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/square brown dark_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/square brown dark_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/square brown light_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/square brown light_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/square gray dark _png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/square gray dark _png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/square gray light _png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/square gray light _png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/w_bishop_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/w_bishop_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/w_king_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/w_king_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/w_knight_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/w_knight_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/w_pawn_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/w_pawn_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/w_queen_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/w_queen_png_shadow_512px.png
+
+#begin Textures/Chess/PNGs/With_Shadow/512px/w_rook_png_shadow_512px.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/Chess/PNGs/With_Shadow/512px/w_rook_png_shadow_512px.png
 

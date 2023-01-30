@@ -1,4 +1,5 @@
-﻿using Microsoft.Xna.Framework;
+﻿using ChessGame.Utilities;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
@@ -9,7 +10,7 @@ public class ChessGame : Game
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
 
-    private Texture2D _ballTexture;
+    private Texture2D _knightTexture;
     private Vector2 _ballPos;
     private float _ballSpeed;
 
@@ -34,7 +35,11 @@ public class ChessGame : Game
         _spriteBatch = new SpriteBatch(GraphicsDevice);
         
         // TODO: use this.Content to load your game content here
-        _ballTexture = Content.Load<Texture2D>("Textures/ball");
+        _knightTexture = Content.Load<Texture2D>(TextureUtility.GetChessPieceTexturePath(
+            Types.Color.Black,
+            Types.Piece.QUEEN,
+            128,
+            false));
     }
 
     protected override void Update(GameTime gameTime)
@@ -65,22 +70,22 @@ public class ChessGame : Game
             _ballPos.X += _ballSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds;
         }
 
-        if (_ballPos.X > _graphics.PreferredBackBufferWidth - _ballTexture.Width / 2f)
+        if (_ballPos.X > _graphics.PreferredBackBufferWidth - _knightTexture.Width / 2f)
         {
-            _ballPos.X = _graphics.PreferredBackBufferWidth - _ballTexture.Width / 2f;
+            _ballPos.X = _graphics.PreferredBackBufferWidth - _knightTexture.Width / 2f;
         }
-        else if (_ballPos.X < _ballTexture.Width / 2f)
+        else if (_ballPos.X < _knightTexture.Width / 2f)
         {
-            _ballPos.X = _ballTexture.Width / 2f;
+            _ballPos.X = _knightTexture.Width / 2f;
         }
 
-        if (_ballPos.Y > _graphics.PreferredBackBufferHeight - _ballTexture.Height / 2f)
+        if (_ballPos.Y > _graphics.PreferredBackBufferHeight - _knightTexture.Height / 2f)
         {
-            _ballPos.Y = _graphics.PreferredBackBufferHeight - _ballTexture.Height / 2f;
+            _ballPos.Y = _graphics.PreferredBackBufferHeight - _knightTexture.Height / 2f;
         }
-        else if (_ballPos.Y < _ballTexture.Height / 2f)
+        else if (_ballPos.Y < _knightTexture.Height / 2f)
         {
-            _ballPos.Y = _ballTexture.Height / 2f;
+            _ballPos.Y = _knightTexture.Height / 2f;
         }
 
         base.Update(gameTime);
@@ -93,12 +98,12 @@ public class ChessGame : Game
         // TODO: Add your drawing code here
         _spriteBatch.Begin();
         _spriteBatch.Draw(
-            _ballTexture, 
+            _knightTexture, 
             _ballPos,
             null,
             Color.White,
             0f,
-            new Vector2(_ballTexture.Width / 2f, _ballTexture.Height / 2f),
+            new Vector2(_knightTexture.Width / 2f, _knightTexture.Height / 2f),
             Vector2.One,
             SpriteEffects.None,
             0f
