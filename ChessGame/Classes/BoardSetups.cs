@@ -23,7 +23,6 @@ public struct BoardSetups
         (int)PieceConstants.Id.Pawn,
         (int)PieceConstants.Id.Pawn,
         (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
         (int)PieceConstants.Id.Empty,
         (int)PieceConstants.Id.Empty,
         (int)PieceConstants.Id.Empty,

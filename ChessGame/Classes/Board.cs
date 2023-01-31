@@ -12,14 +12,15 @@ public class Board
         Chess960
     }
     
-    private int[] _content;
+    private int[] _pieceIds;
+    public int[] PieceIds => _pieceIds;
 
     public Board(GameType gameType = GameType.Standard)
     {
         switch (gameType)
         {
             case GameType.Standard:
-                _content = BoardSetups.StandardSetup;
+                _pieceIds = BoardSetups.StandardSetup;
                 break;
             case GameType.Chess960:
                 // TODO: Implement Chess960 board generation

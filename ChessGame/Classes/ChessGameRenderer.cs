@@ -1,4 +1,5 @@
-﻿using ChessGame.Utilities;
+﻿using System;
+using ChessGame.Utilities;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
@@ -27,6 +28,8 @@ public class ChessGameRenderer
     private Texture2D[] _pieceTextures;
     private SpriteBatch _spriteBatch;
     private ChessGameRenderConfig _renderConfig;
+
+    private const int PIECE_PADDING = 5;
     
     public ChessGameRenderer(ChessGameRenderConfig renderConfig)
     {
@@ -59,22 +62,52 @@ public class ChessGameRenderer
         // TODO: Load squares
     }
 
-    public void DrawBoard(GraphicsDeviceManager graphicsDeviceManager)
+    public void DrawBoard(Board board, GraphicsDeviceManager graphicsDeviceManager)
     {
-        _spriteBatch.Begin();
+        // 1. Figure out how big we can draw the chess board
+        int smallestDimension = Math.Min(graphicsDeviceManager.PreferredBackBufferWidth,
+            graphicsDeviceManager.PreferredBackBufferHeight);
+        int squareResolution = (smallestDimension - (smallestDimension % 8)) / 8;
         
-        // TODO: Draw board
-        _spriteBatch.Draw(
-            _pieceTextures[0],
-            new Vector2(graphicsDeviceManager.PreferredBackBufferWidth / 2f, graphicsDeviceManager.PreferredBackBufferHeight / 2f),
-            null,
-            Color.White,
-            0f,
-            new Vector2(_pieceTextures[0].Width / 2f, _pieceTextures[0].Height / 2f),
-            Vector2.One,
-            SpriteEffects.None,
-            0f
-        );
+        float squareScaleFactor = (float) squareResolution / _renderConfig.TextureResolution; 
+        float pieceScaleFactor = (float) squareResolution / (_renderConfig.TextureResolution + PIECE_PADDING);
+
+        Vector2 midScreen = new(
+            graphicsDeviceManager.PreferredBackBufferWidth / 2f,
+            graphicsDeviceManager.PreferredBackBufferHeight / 2f);
+
+        _spriteBatch.Begin();
+        // 2. Draw squares
+        Vector2 squareScale = Vector2.One * squareScaleFactor;
+        // TODO: Draw squares
+        
+        // 3. Draw pieces
+        Vector2 pieceScale = Vector2.One * pieceScaleFactor;
+
+        for (int index = 0; index < 1; index++)
+        {
+            if (board.PieceIds[index] == 0) continue;
+            
+            int col = index % 8;
+            int row = index / 8;
+            
+            // TODO: Invert since index 0 is a1 but position 0, 0 is top left
+            Vector2 position = new(squareResolution * col, squareResolution * row);
+            int pieceId = board.PieceIds[index];
+            _spriteBatch.Draw(
+                _pieceTextures[pieceId],
+                position,
+                null,
+                Color.White,
+                0f,
+                new Vector2(_pieceTextures[pieceId].Width / 2f, _pieceTextures[pieceId].Height / 2f),
+                pieceScale,
+                SpriteEffects.None,
+                0f
+            );
+        }
+
+        // TODO: Calculate piece positions
         _spriteBatch.End();
     }
 }

@@ -26,6 +26,6 @@ public class ChessGameManager
 
     public void Draw(GraphicsDeviceManager graphicsDeviceManager)
     {
-        _renderer.DrawBoard(graphicsDeviceManager);
+        _renderer.DrawBoard(_board, graphicsDeviceManager);
     }
 }
