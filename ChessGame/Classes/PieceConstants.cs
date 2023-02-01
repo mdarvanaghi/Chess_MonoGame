@@ -1,9 +1,4 @@
-﻿using System.Collections.Generic;
-using ChessGame.Utilities;
-using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.Graphics;
-
-namespace ChessGame.Classes;
+﻿namespace ChessGame.Classes;
 
 public static class PieceConstants
 {
@@ -11,8 +6,8 @@ public static class PieceConstants
     {
         "",
         "pawn",
-        "knight",
         "bishop",
+        "knight",
         "rook",
         "queen",
         "king"

@@ -40,22 +40,22 @@ public class ChessGameRenderer
     {
         _spriteBatch = new SpriteBatch(_renderConfig.GraphicsDevice);
 
-        _pieceTextures = new Texture2D[(int)(PieceConstants.Id.Count - 1) * 2];
+        _pieceTextures = new Texture2D[(int)(PieceConstants.Id.Count) * 2];
         // Load white pieces
-        for (int pieceId = 0; pieceId < (int)PieceConstants.Id.Count - 1; pieceId++)
+        for (int pieceId = 1; pieceId < (int)PieceConstants.Id.Count; pieceId++)
         {
             _pieceTextures[pieceId] = contentManager.Load<Texture2D>(TextureUtility.GetChessPieceTexturePath(
                 Types.Color.White,
-                PieceConstants.TextureName[pieceId + 1],
+                PieceConstants.TextureName[pieceId],
                 _renderConfig.TextureResolution,
                 _renderConfig.PieceShadows));
         }
         // Load black pieces
-        for (int pieceId = 0; pieceId < (int)PieceConstants.Id.Count - 1; pieceId++)
+        for (int pieceId = 1; pieceId < (int)PieceConstants.Id.Count; pieceId++)
         {
-            _pieceTextures[pieceId + (int)PieceConstants.Id.Count - 1] = contentManager.Load<Texture2D>(TextureUtility.GetChessPieceTexturePath(
+            _pieceTextures[pieceId + (int)PieceConstants.Id.Count] = contentManager.Load<Texture2D>(TextureUtility.GetChessPieceTexturePath(
                 Types.Color.Black,
-                PieceConstants.TextureName[pieceId + 1],
+                PieceConstants.TextureName[pieceId],
                 _renderConfig.TextureResolution,
                 _renderConfig.PieceShadows));
         }
@@ -70,7 +70,7 @@ public class ChessGameRenderer
         int squareResolution = (smallestDimension - (smallestDimension % 8)) / 8;
         
         float squareScaleFactor = (float) squareResolution / _renderConfig.TextureResolution; 
-        float pieceScaleFactor = (float) squareResolution / (_renderConfig.TextureResolution + PIECE_PADDING);
+        float pieceScaleFactor = (float) squareResolution / (_renderConfig.TextureResolution);
 
         Vector2 midScreen = new(
             graphicsDeviceManager.PreferredBackBufferWidth / 2f,
@@ -84,18 +84,22 @@ public class ChessGameRenderer
         // 3. Draw pieces
         Vector2 pieceScale = Vector2.One * pieceScaleFactor;
 
-        for (int index = 0; index < 1; index++)
+        float scaledHalf = (_renderConfig.TextureResolution / 2) * pieceScaleFactor;
+
+        for (int index = 0; index < board.Pieces.Length; index++)
         {
-            if (board.PieceIds[index] == 0) continue;
+            if (board.Pieces[index].PieceId == 0) continue;
             
             int col = index % 8;
-            int row = index / 8;
+            int row = 8 - index / 8;
+
+            int offset = board.Pieces[index].Color == Types.Color.Black ? _pieceTextures.Length / 2 : 0;
+            // TODO: Invert row since index 0 is a1 but position 0, 0 is top left
             
-            // TODO: Invert since index 0 is a1 but position 0, 0 is top left
-            Vector2 position = new(squareResolution * col, squareResolution * row);
-            int pieceId = board.PieceIds[index];
+            Vector2 position = new(squareResolution * col + scaledHalf, squareResolution * row - scaledHalf);
+            int pieceId = (int)board.Pieces[index].PieceId;
             _spriteBatch.Draw(
-                _pieceTextures[pieceId],
+                _pieceTextures[pieceId + offset],
                 position,
                 null,
                 Color.White,

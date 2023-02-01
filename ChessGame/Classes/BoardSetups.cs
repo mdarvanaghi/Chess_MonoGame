@@ -5,75 +5,327 @@ namespace ChessGame.Classes;
 public struct BoardSetups
 {
     // A1 - H8
-    public static readonly int[] StandardSetup = 
+    public static readonly Types.OwnedPiece[] StandardSetup =
     {
-        (int)PieceConstants.Id.Rook,
-        (int)PieceConstants.Id.Knight,
-        (int)PieceConstants.Id.Bishop,
-        (int)PieceConstants.Id.Queen,
-        (int)PieceConstants.Id.King,
-        (int)PieceConstants.Id.Bishop,
-        (int)PieceConstants.Id.Knight,
-        (int)PieceConstants.Id.Rook,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Empty,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Pawn,
-        (int)PieceConstants.Id.Rook,
-        (int)PieceConstants.Id.Knight,
-        (int)PieceConstants.Id.Bishop,
-        (int)PieceConstants.Id.Queen,
-        (int)PieceConstants.Id.King,
-        (int)PieceConstants.Id.Bishop,
-        (int)PieceConstants.Id.Knight,
-        (int)PieceConstants.Id.Rook
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Rook
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Knight
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Bishop
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Queen
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.King
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Bishop
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Knight
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Rook
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new()
+        {
+            Color = Types.Color.White,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.None,
+            PieceId = PieceConstants.Id.Empty
+        },
+        new ()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new ()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new ()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new ()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new ()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new ()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new ()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new ()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Pawn
+        },
+        new()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Rook
+        },
+        new()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Knight
+        },
+        new()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Bishop
+        },
+        new()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Queen
+        },
+        new()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.King
+        },
+        new()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Bishop
+        },
+        new()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Knight
+        },
+        new()
+        {
+            Color = Types.Color.Black,
+            PieceId = PieceConstants.Id.Rook
+        }
     };
 }
