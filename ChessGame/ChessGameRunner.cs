@@ -10,20 +10,27 @@ public class ChessGameRunner : Game
 {
     private GraphicsDeviceManager _graphicsDeviceManager;
 
-    private Classes.ChessGameManager chessGameManager;
+    private ChessGameManager chessGameManager;
+
+    private Color _backgroundColor = new(49, 46, 43);
 
     public ChessGameRunner()
     {
         _graphicsDeviceManager = new GraphicsDeviceManager(this);
         Content.RootDirectory = "Content";
         IsMouseVisible = true;
+        Window.AllowUserResizing = true;
     }
 
     protected override void Initialize()
     {
         // TODO: Add your initialization logic here
-        ChessGameRenderer.ChessGameRenderConfig renderConfig = 
-            new(GraphicsDevice, 128, true);
+        ChessGameRenderer.ChessGameRenderConfig renderConfig = new(
+            GraphicsDevice, 
+            128, 
+            true,
+            new Color(240, 217, 181),
+            new Color(181, 136, 99));
         chessGameManager = new ChessGameManager(renderConfig);
 
         base.Initialize();
@@ -33,6 +40,12 @@ public class ChessGameRunner : Game
     {
         // TODO: use this.Content to load your game content here
         chessGameManager.LoadContent(Content);
+    }
+
+    protected override void UnloadContent()
+    {
+        base.UnloadContent();
+        chessGameManager.UnloadContent();
     }
 
     protected override void Update(GameTime gameTime)
@@ -49,7 +62,7 @@ public class ChessGameRunner : Game
 
     protected override void Draw(GameTime gameTime)
     {
-        GraphicsDevice.Clear(Color.CornflowerBlue);
+        GraphicsDevice.Clear(_backgroundColor);
 
         // TODO: Add your drawing code here
         chessGameManager.Draw(_graphicsDeviceManager);

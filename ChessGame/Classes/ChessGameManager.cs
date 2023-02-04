@@ -24,6 +24,11 @@ public class ChessGameManager
         _renderer.LoadTextures(contentManager);
     }
 
+    public void UnloadContent()
+    {
+        _renderer.UnloadTextures();
+    }
+
     public void Draw(GraphicsDeviceManager graphicsDeviceManager)
     {
         _renderer.DrawBoard(_board, graphicsDeviceManager);
