@@ -26,8 +26,8 @@ public class ChessGameRunner : Game
     {
         // TODO: Add your initialization logic here
         ChessGameRenderer.ChessGameRenderConfig renderConfig = new(
-            GraphicsDevice, 
-            128, 
+            GraphicsDevice,
+            128,
             true,
             new Color(240, 217, 181),
             new Color(181, 136, 99));
@@ -54,8 +54,7 @@ public class ChessGameRunner : Game
             Exit();
 
         // TODO: Add your update logic here
-        KeyboardState keyboardState = Keyboard.GetState();
-        MouseState mouseState = Mouse.GetState();
+        chessGameManager.Update(gameTime);
 
         base.Update(gameTime);
     }

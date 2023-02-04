@@ -10,6 +10,7 @@ public class ChessGameManager
     private Board _board;
     private ChessGameLogicHandler _logicHandler;
     private ChessGameRenderer _renderer;
+    private ChessGameInputHandler _inputHandler;
 
     public ChessGameManager(
         ChessGameRenderer.ChessGameRenderConfig renderConfig, 
@@ -27,6 +28,11 @@ public class ChessGameManager
     public void UnloadContent()
     {
         _renderer.UnloadTextures();
+    }
+
+    public void Update(GameTime gameTime, Board _board)
+    {
+        _inputHandler.HandleInput(gameTime);
     }
 
     public void Draw(GraphicsDeviceManager graphicsDeviceManager)
